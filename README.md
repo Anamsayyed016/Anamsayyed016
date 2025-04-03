@@ -76,7 +76,6 @@ Chatbots & NLP – Creating AI-driven customer support solutions
 - 🎨 I can turn complex code into a beautiful UI/UX effortlessly!
 🚀 I love building interactive web apps that make life easier.
 💡 I'm always on the lookout for new tech trends and open-source contributions!
-🎮 I enjoy gaming and sometimes find coding inspiration from video games.
 ☕ My best code is written with a cup of coffee in hand!
 🌍 I believe technology can change the world, one line of code at a time.
 📖 When I’m not coding, you’ll find me reading tech blogs or exploring AI innovations.
