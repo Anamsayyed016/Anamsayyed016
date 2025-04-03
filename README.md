@@ -1,5 +1,5 @@
 - 👋 Hey there! Welcome to My GitHub Profile! I'm Anam Sayyed 👋
-- 
+
 🚀 Full-Stack Developer | React.js & Python Enthusiast | Freelancer
  Passionate about crafting interactive and scalable web applications.
   Currently diving deeper into React.js & Next.js for high-performance front-end development.
@@ -62,14 +62,13 @@ Chatbots & NLP – Creating AI-driven customer support solutions
 🤝 Team-Based Web Projects – I love working in agile teams, solving real-world problems, and building dynamic web applications together!
 
 
-- 
 - 📫 How to reach me ...
-- 
+
 💌 Email:  anamsayyed58@gmail.com
 💼 LinkedIn:https://www.linkedin.com/in/sayyedanam/
 💻 GitHub:https://github.com/Anamsayyed016
+
   
-- 
 - 😄 Pronouns: ...
 - She/Her
 
