@@ -23,7 +23,6 @@ Freelancing & Startups: Helping businesses with modern web solutions and growing
 
 
 - 🌱 I’m currently learning ...
-- .
 
 🚀 Frontend Development:
 Advanced React.js & Next.js – Optimizing performance, server-side rendering (SSR), and API integrations
