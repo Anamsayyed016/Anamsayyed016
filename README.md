@@ -9,13 +9,11 @@
 
 - 👀 I’m interested in ...
   
-- Backend Development: Crafting robust and scalable APIs with Django, FastAPI, and Node.js
+- Backend Development: Crafting robust and scalable APIs with Django
 
 Full-Stack Development: Creating end-to-end solutions with d Python-based stacks
 
 Software Architecture: Designing modular, maintainable, and high-performance web applications
-
-AI & Machine Learning: Exploring AI-powered web apps and automation tools
 
 Open Source Contributions: Engaging with the dev community through GitHub and collaborative projects
 
@@ -25,33 +23,15 @@ Freelancing & Startups: Helping businesses with modern web solutions and growing
 - 🌱 I’m currently learning ...
 
 🚀 Frontend Development:
-Advanced React.js & Next.js – Optimizing performance, server-side rendering (SSR), and API integrations
-
-TypeScript – Writing scalable, maintainable, and error-free frontend applications
+Advanced React.js  – Optimizing performance, server-side rendering (SSR), and API integrations
 
 Tailwind CSS & Framer Motion – Enhancing UI/UX with animations and modern styling
 
 🖥 Backend Development:
-Django & FastAPI – Building high-performance APIs and microservices
-
-GraphQL & RESTful APIs – Creating flexible and efficient data-fetching solutions
-
-Redis & Caching Strategies – Improving backend speed and scalability
+Django  Building high-performance APIs and microservices
 
 💾 Databases & Cloud:
-PostgreSQL & MongoDB – Mastering relational and NoSQL database management
-
-Firebase & Supabase – Exploring serverless database solutions
-
-AWS & Docker – Learning cloud deployment, CI/CD, and scalable hosting
-
-🤖 AI & Machine Learning:
-OpenAI & LangChain – Implementing AI-powered web applications
-
-TensorFlow & PyTorch – Understanding machine learning for web automation
-
-Chatbots & NLP – Creating AI-driven customer support solutions
-
+PostgreSQL – Mastering relational and NoSQL database management
 
 - 💞️ I’m looking to collaborate on ...
 .
